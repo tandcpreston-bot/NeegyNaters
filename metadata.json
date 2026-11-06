@@ -1,0 +1,6 @@
+{
+  "name": "NexusPlay - Instant Free Web Games Portal",
+  "description": "Play high quality free online games directly in your browser without leaving the website. Play arcade, racing, puzzle, and strategy games or add your own custom games.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
